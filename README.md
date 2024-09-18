@@ -1,1 +1,1 @@
-Einfacher Phytencode, der mich mit meiem Namen begrüßt, 
+Einfacher Phytencode, der mich mit meinem Namen begrüßt.
